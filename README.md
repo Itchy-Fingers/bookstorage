@@ -83,7 +83,7 @@ pending, shipped, delivered). </td>
         <a/>
       </td>
       <td align="center">
-      <a href="">
+      <a href="https://github.com/jacklinenyaga">
       <img src="https://avatars.githubusercontent.com/u/126550868?v=4" width="100">
       <br />
       <sub><b>Jackline Nyaga</b></sub>
