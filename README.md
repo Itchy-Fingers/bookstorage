@@ -77,21 +77,21 @@ pending, shipped, delivered). </td>
     <tr>
       <td align="center">
         <a href="https://github.com/Itchy-Fingers">
-        <img src="![image](https://github.com/user-attachments/assets/543d749c-2242-4866-826f-f40bc775816c)">
+        <img src="![image](https://github.com/user-attachments/assets/543d749c-2242-4866-826f-f40bc775816c)" width="100">
         <br />
         <sub><b>Sospeter Owino</b></sub>
         <a/>
       </td>
       <td align="center">
       <a href="">
-      <img src="">
+      <img src="" width="100">
       <br />
       <sub><b>Jackline Nyaga</b></sub>
       <a/>
       </td>
       <td align="centre">
         <a href="">
-        <img src="">
+        <img src="https://avatars.githubusercontent.com/u/122861507?v=4" width="100">
         <br />
         <sub><b>Vivian Kairuthi<b><sub>
         <a/>
