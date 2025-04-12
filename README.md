@@ -90,7 +90,7 @@ pending, shipped, delivered). </td>
       <a/>
       </td>
       <td align="centre">
-        <a href="">
+        <a href="https://github.com/Viviankairuthi">
         <img src="https://avatars.githubusercontent.com/u/122861507?v=4" width="100">
         <br />
         <sub><b>Vivian Kairuthi<b><sub>
