@@ -77,7 +77,7 @@ pending, shipped, delivered). </td>
     <tr>
       <td align="center">
         <a href="https://github.com/Itchy-Fingers">
-        <img src="![image](https://github.com/user-attachments/assets/543d749c-2242-4866-826f-f40bc775816c)" width="100">
+        <img src="https://avatars.githubusercontent.com/u/113516060?v=4" width="100">
         <br />
         <sub><b>Sospeter Owino</b></sub>
         <a/>
