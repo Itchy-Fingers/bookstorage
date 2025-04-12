@@ -84,7 +84,7 @@ pending, shipped, delivered). </td>
       </td>
       <td align="center">
       <a href="">
-      <img src="" width="100">
+      <img src="https://avatars.githubusercontent.com/u/126550868?v=4" width="100">
       <br />
       <sub><b>Jackline Nyaga</b></sub>
       <a/>
