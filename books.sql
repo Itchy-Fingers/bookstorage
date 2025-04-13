@@ -39,7 +39,7 @@ CREATE TABLE orderHistory (
 orderHistory_Id INT PRIMARY KEY AUTO_INCREMENT,
 orderId INT,
 order_status_Id INT,
-changed_at VARCHAR(20),
+histry VARCHAR(20),
 FOREIGN KEY (orderId) REFERENCES customer_Orders(orderId),
 FOREIGN KEY (order_status_Id) REFERENCES order_status(order_status_Id));
 
