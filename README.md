@@ -71,6 +71,7 @@ pending, shipped, delivered). </td>
 
 ### ERD
 <img src="https://github.com/Itchy-Fingers/bookstorage/blob/main/erd.jpg" width="800">
+
 ### Contributors
 <table>
   <tbody>
